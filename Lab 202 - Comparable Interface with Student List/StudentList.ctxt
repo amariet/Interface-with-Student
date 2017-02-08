@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StudentList()
+comment1.params=
+comment1.target=void\ addStudentToList()
+comment10.params=
+comment10.target=void\ sortByNumber()
+comment2.params=
+comment2.target=void\ printStudentList()
+comment3.params=input
+comment3.target=void\ deleteStudent(java.lang.String)
+comment4.params=input
+comment4.target=void\ findStudent(java.lang.String)
+comment4.text=Prints\ student\ info\ to\ the\ console
+comment5.params=input
+comment5.target=boolean\ doesStudentExist(java.lang.String)
+comment6.params=input
+comment6.target=Student\ getStudent(java.lang.String)
+comment6.text=Just\ returns\ the\ student
+comment7.params=
+comment7.target=void\ clearList()
+comment8.params=x
+comment8.target=void\ editStudent(java.lang.String)
+comment9.params=
+comment9.target=void\ filterSearchStudentList()
+numComments=11
